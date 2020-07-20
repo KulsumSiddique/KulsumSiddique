@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+```json
+{
+   "languages": ["PHP", "JS", "Python"],
+   "backend": ["Laravel"],
+   "frontend": ["html", "css", "bootstrap"],
+   "CMS": ["WordPress"],
+   "databases": ["mysql"],
+   "experimenting": ["Cypress"]
+}
+
+```
 <!--
 **KulsumSiddique/KulsumSiddique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +26,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-{
-   "languages": ["PHP", "JS", "Python"],
-   "backend": ["Laravel"],
-   "frontend": ["html", "css", "bootstrap"],
-   "CMS": ["WordPress"]
-   "databases": ["mysql"],
-   "ai framework":["Keras","PyTorch","Scikit-learn","PySpark"],
-   "experimenting": ["Cypress", "Heroku"]
-}
