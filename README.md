@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+{
+   "languages": ["PHP", "JS", "Python"],
+   "backend": ["Laravel"],
+   "frontend": ["html", "css", "bootstrap"],
+   "CMS": ["WordPress"]
+   "databases": ["mysql"],
+   "ai framework":["Keras","PyTorch","Scikit-learn","PySpark"],
+   "experimenting": ["Cypress", "Heroku"]
+}
