@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## {...} My Stack
+
 ```json
 {
    "languages": ["PHP", "JS", "Python"],
@@ -11,6 +13,9 @@
 }
 
 ```
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KulsumSiddique&show_icons=true" alt="KulsumSiddique" /> </h1>
+
 <!--
 **KulsumSiddique/KulsumSiddique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
