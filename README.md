@@ -4,15 +4,6 @@
 
 ---
 
-## 📊 Profile & Achievements
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-👁️-blue?style=for-the-badge)  
-![GitHub Commits](https://img.shields.io/github/commit-activity/m/kulsumsiddique?style=for-the-badge&logo=github&logoColor=white)  
-![GitHub Repos](https://img.shields.io/github/repos/kulsumsiddique?style=for-the-badge&logo=github&logoColor=white)  
-![GitHub Followers](https://img.shields.io/github/followers/kulsumsiddique?style=for-the-badge&logo=github&logoColor=white)
-
----
-
 ## About Me
 
 Strategic and results-driven Senior QA Engineer with **9+ years of experience** in manual & automated testing, QA leadership, and software deployment. Experienced in Fintech and Media platforms, mentoring 30+ computer graduates, and delivering high-performance, reliable software. Certified ScrumMaster (CSM) and Scrum Developer (CSD).
@@ -76,8 +67,6 @@ Strategic and results-driven Senior QA Engineer with **9+ years of experience** 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kulsumsiddique&show_icons=true&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kulsumsiddique&layout=compact&theme=dark&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kulsumsiddique&theme=dark)  
 
 ---
